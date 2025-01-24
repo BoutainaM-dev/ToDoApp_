@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoBoutaina</string>
+    <string name="add_task">Ajouter la tâche</string>
+    <string name="delete_task">Supprimer</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="edit_task">Modifier la tâche\n</string>
+    <string name="username_placeholder">Utilisateur</string>
+    <string name="avatar">Avatar\n</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
